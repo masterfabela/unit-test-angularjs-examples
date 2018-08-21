@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "homepage": "https://github.com/masterfabela/unit-test-angularjs-examples",
+  "authors": [
+    "masterfabela <fabelaretorcida@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.3",
+    "angular-mocks": "^1.7.3"
+  }
+}
